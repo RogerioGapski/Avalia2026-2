@@ -6,8 +6,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "db-p26-2a-567b-6ec5-d24d-9098",
-      "database_id": "00000000-0000-0000-0000-000000000000"
+      "database_name": "bookmark-manager",
+      "database_id": "62f806fd-28d0-4501-90da-2a21f5c7f339"
     }
   ]
 }
